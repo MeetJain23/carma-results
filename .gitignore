@@ -1,0 +1,18 @@
+# This repo publishes results only. Code and secrets must never land here.
+*.py
+*.ipynb
+*.pkl
+*.joblib
+*.h5
+*.env
+.env*
+config.*
+secrets.*
+credentials.*
+*.key
+*.pem
+*token*
+.venv/
+venv/
+__pycache__/
+.DS_Store
